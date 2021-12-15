@@ -1,0 +1,27 @@
+{
+  "name": "npm-root-g",
+  "version": "1.0.1",
+  "description": "get the result or the cached result, of cmd 'npm root -g'.",
+  "main": "npm-root-g.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "npm",
+    "root",
+    "global"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/npm-root-g.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/npm-root-g/issues"
+  },
+  "homepage": "https://github.com/adf0001/npm-root-g#readme"
+}
